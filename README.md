@@ -1,1 +1,1 @@
-# T20_2023Spring
+# Animal Detection (T20 Project 2023)
