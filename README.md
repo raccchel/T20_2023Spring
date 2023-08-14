@@ -14,7 +14,7 @@
 - Train object detection model for animals with Custom Vision in Azure Cognitive Service.
 - Build user interface with PowerApp for real-time identification.
 
-### About the data
+### Data Overview
 [Animals Detection Images Dataset | Kaggle](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)
 
 - The Animal dataset (10GB) contains a train set and a test set. 
