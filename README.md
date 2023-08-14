@@ -12,7 +12,7 @@
 ### Objectives
 - Create an app to identify user uploaded wildlife species.
 - Train object detection model for animals with Custom Vision in Azure Cognitive Service.
-- Build user interface with PowerApp for real-time identification
+- Build user interface with PowerApp for real-time identification.
 
 ### About the data
 [Animals Detection Images Dataset | Kaggle](https://www.kaggle.com/datasets/antoreepjana/animals-detection-images-dataset)
