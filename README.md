@@ -7,11 +7,11 @@
 
 There are 2 main parts to our architecture: the model training process and the image submission and scoring workflow. 
 
-Model training:
+Model training:  
 
 The training images and labels are brought in to Blob Storage. The labels are then modified to a suitable format using an Azure Machine Learning notebook and imported into Cognitive Services. The multilable classification model is then trained on Cognitive Services. 
 
-Image submission and scoring:
+Image submission and scoring:  
 
 Users submit images through a PowerApp UI, which sends a call to the previously trained model. The same PowerApp then displays the answer received, which is the name of the animal found within the image. 
 
