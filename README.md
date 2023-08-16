@@ -111,6 +111,22 @@ There are 4 main steps to the flow:
 
 ## Timeline
 
+**First Sprint (April)**
+* Topic and dataset selection
+* Architecture iteration
+* Image tag processing 
+* Front-end selection and trials
+
+**Second Sprint (May & June)**
+* Model training
+* Front end design
+* Flow development
+
+**Third Sprint (July)**
+* Back end and front end connected
+* Testing
+* Presentation planning
+
 ## References
 -Upload annotations to Azure Custom Vision [samples/pylabel2azure_custom_vision.ipynb at main · pylabel-project/samples · GitHub](https://github.com/raccchel/T20_2023Spring/assets/97638746/42bc0f10-5c08-4c5c-8f32-782896f910a9)
 
