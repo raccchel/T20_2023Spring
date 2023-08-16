@@ -77,7 +77,7 @@ Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/AnimalVisio
 
  **Flow Steps**
  
- ![image](Images/Flow.jpg)  
+ ![image](Images/Flow.png)  
  
 
 
