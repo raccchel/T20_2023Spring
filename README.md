@@ -103,7 +103,8 @@ Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/AnimalVisio
 
 ## References
 -Upload annotations to Azure Custom Vision [samples/pylabel2azure_custom_vision.ipynb at main · pylabel-project/samples · GitHub](https://github.com/raccchel/T20_2023Spring/assets/97638746/42bc0f10-5c08-4c5c-8f32-782896f910a9)
--Notebook Data:[Kaggle](https://www.kaggle.com/code/majdikarim/farm-animals-detection-yolov5)
+-Notebook Data:[farm-animals-detection-yolov5](https://www.kaggle.com/code/majdikarim/farm-animals-detection-yolov5)
+-Notebook Data:[pylabel2azure_custom_vision](https://github.com/pylabel-project/samples/blob/main/pylabel2azure_custom_vision.ipynb)
 
 
 
