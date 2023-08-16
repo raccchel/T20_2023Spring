@@ -73,7 +73,10 @@ Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/AnimalVisio
 
  ![image](Images/HomeScreen.png)  
 
- The PowerApp, optimized for mobile devices but also accessible through PCs, presents the users with an image submission box and a result textbox that populates with the model results. When a user submits an image, a flow is triggered, which formats the image for processing, calls the model and obtains the results. 
+ The PowerApp, optimized for mobile devices but also accessible through PCs, presents the users with an image submission box and a result textbox that populates with the model results. When a user submits an image, a flow is triggered, which formats the image for processing, calls the model and obtains the results.  
+
+ **Flow Steps**
+ 
 
  
 
