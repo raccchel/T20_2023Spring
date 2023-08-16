@@ -20,7 +20,6 @@ Users submit images through a PowerApp UI, which sends a call to the previously 
 ## Final Presentation
 
 Find our full final presentation PPT here. Or explore the sections below.
-  <img src="" name="image-name">
 <details>
  <summary>Objectives and Data Exploration</summary>
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide3.JPG" name="image-name">
