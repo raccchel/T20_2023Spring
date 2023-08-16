@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Architecture Overview
- ![image](Images/Architecture.png)
+ ![image](Images/Architecture.jpg)
 
 ## Final Presentation
 
