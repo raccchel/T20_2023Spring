@@ -96,6 +96,9 @@ Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/AnimalVisio
 
 
 ## Specialities
+- Data: Rachel & Melody
+- Cognitive Search: Rachel & Melody
+- PowerApp: Juan & Aayushi
 
 ## Overall Concept
 
