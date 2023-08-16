@@ -19,6 +19,15 @@ Users submit images through a PowerApp UI, which sends a call to the previously 
 
 ## Final Presentation
 
+Find our full final presentation PPT here. Or explore the sections below.
+
+<details>
+ <summary>Objectives and Data Exploration</summary>
+  ![image](Images/Slides/Slide%3.jpg)  
+</details>
+
+
+
 ## Application
 
 ## Project Plan
