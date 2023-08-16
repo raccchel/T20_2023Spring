@@ -23,7 +23,8 @@ Find our full final presentation PPT here. Or explore the sections below.
 
 <details>
  <summary>Objectives and Data Exploration</summary>
-  ![image](Images/Slides/Slide%3.jpg)  
+  '''![image](Images/Slides/Slide%3.jpg)  
+ '''
 </details>
 
 
