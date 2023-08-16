@@ -3,7 +3,7 @@
 ## Introduction
 
 ## Architecture Overview
- ![image](Images/Architecture.jpg)
+ ![image](Images/Architecture.jpg)  
 
 There are 2 main parts to our architecture: the model training process and the image submission and scoring workflow. 
 
