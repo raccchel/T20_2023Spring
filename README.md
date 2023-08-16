@@ -68,7 +68,7 @@ Find our full final presentation PPT [here](https://microsoft-my.sharepoint.com/
 
 
 ## Application
-Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/HomeScreen.png)!
+Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/HomeScreen.jpg)!
 
 
  ![image](Images/Architecture.jpg)  
