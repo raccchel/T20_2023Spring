@@ -28,6 +28,36 @@ Find our full final presentation PPT here. Or explore the sections below.
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide5.JPG" name="image-name">
 </details>
 
+<details>
+ <summary>Challenges and Solutions</summary>
+<details>
+ <summary>Data</summary>
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide8.JPG" name="image-name">
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide9.JPG" name="image-name">
+</details>
+ <details>
+  <summary>AI/Cognitive Service</summary>
+  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide10.JPG" name="image-name">
+  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide11.JPG" name="image-name">
+  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide12.JPG" name="image-name">
+ </details>
+ <details>
+  <summary>PowerApps/Flow</summary>
+  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide13.JPG" name="image-name">
+ </details>
+</details>
+
+<details>
+ <summary>Flow Overview</summary>
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide15.JPG" name="image-name">
+</details>
+
+<details>
+ <summary>Conclusion</summary>
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide17.JPG" name="image-name">
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide18.JPG" name="image-name">
+</details>
+
 
 
 ## Application
