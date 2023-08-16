@@ -79,7 +79,11 @@ Access and test our PowerApp at [aka.ms/AnimalVision](https://aka.ms/AnimalVisio
  
  ![image](Images/Flow.png)  
  
-
+There are 4 main steps to the flow:
+* Image submission: The submission of an image is reflected by the Image component changing, which triggers the flow and receives the binary file wrapped in a JSON object.
+* Image formatting and model call: The image is transformed to the correct format and sent over to the Cognitive Services Custom Vision model.
+* Response retrieval: The model's response is received as a JSON array of different detected animals, their bounding boxes and likelihoods. The most likely result is selected.
+* Variable return: The selected animal name is returned by the flow and stored in an app variable.
 
 
 
