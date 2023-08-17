@@ -1,6 +1,7 @@
 # Animal Detection (T20 Project 2023)
 
 ## Introduction
+This project aims to detect animal species on the image uploaded by users. Users can upload an image each time on our PowerApp, and they will get the results of what kinds of animals appear on the image after uploading. In this project, we store the training data in the blob storage, modify the data with Azure ML Studio notebook, import images and annotations to Azure Custom Vision, and build a PowerApp for the user interface.
 
 ## Architecture Overview
  ![image](Images/Architecture.jpg)  
@@ -11,7 +12,7 @@ There are 2 main parts to our architecture: the model training process and the i
 
 **Model training:**    
 
-The training images and labels are brought in to Blob Storage. The labels are then modified to a suitable format using an Azure Machine Learning notebook and imported into Cognitive Services. The multilable classification model is then trained on Cognitive Services. 
+The training images and labels are brought into Blob Storage. The labels are then modified to a suitable format using an Azure Machine Learning notebook and imported into Cognitive Services. The multiple classification model is then trained on Cognitive Services. 
 
 **Image submission and scoring:**  
 
