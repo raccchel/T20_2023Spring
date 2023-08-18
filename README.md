@@ -109,7 +109,7 @@ There are 4 main steps to the flow:
 - PowerApp: Juan & Aayushi
 
 ## Overall Concept
-
+- To use PowerApp, Azure Ml Studio, and Azure Custom Vision to identify an animal species based on an uploaded image.
 ## Timeline
 
 **First Sprint (April)**
