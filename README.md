@@ -24,6 +24,7 @@ Find our full final presentation PPT [here](https://microsoft-my.sharepoint.com/
 <details>
  <summary>Objectives and Data Exploration</summary>
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide3.JPG" name="image-name">
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Motivations.JPG" name="image-name">
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide4.JPG" name="image-name">
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide5.JPG" name="image-name">
 </details>
@@ -62,6 +63,7 @@ Find our full final presentation PPT [here](https://microsoft-my.sharepoint.com/
 
 <details>
  <summary>Conclusion</summary>
+ <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/NextSteps.JPG" name="image-name">
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide17.JPG" name="image-name">
  <img src="https://github.com/raccchel/T20_2023Spring/blob/main/Images/Slides/Slide18.JPG" name="image-name">
 </details>
